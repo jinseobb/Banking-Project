@@ -106,43 +106,53 @@
 
 <br/>
 
-> ### 카드 추천 페이지
+> ### 카드 
+
+#### - 카드 추천 페이지
 <img width="550px" src="https://github.com/jinseobb/Banking-project/assets/131458472/840d5920-0d66-4e79-a31e-f84bb502f700"/>
   
 ### 📋 구현 기능  
 * 고객이 본인의 소비 패턴에 맞는 새로운 카드(신용카드, 체크카드) 를 추천 받을 수 있는 페이지 입니.
 <br/>
 
-> ### 대출 계산기 페이지
+> ### 대출
+
+#### - 대출 추천 페이지
+<img width="550px" src="https://github.com/jinseobb/Banking-project/assets/131458472/d928683f-1ab7-49bc-96ce-c18b298cdbf2"/>
+<br/>
+
+#### - 신용 대출 추천 페이지
+<img width="550px" src="https://github.com/jinseobb/Banking-project/assets/131458472/c8146e90-ac1f-4e1f-925c-f92246eaf304"/>
+<br/>
+
+#### - 대출 계산기 페이지
 <img width="550px" src="https://github.com/jinseobb/Banking-project/assets/131458472/be5df517-a270-4e89-9822-17c7e052c884"/>
-  
+<br/> 
+ 
 ### 📋 구현 기능  
+* 고객이 신용대출, 자동차 대출, 전 월세 반환보증 대출 중 가입하고 싶은 종류의 대출을 선택 후 추천 받을 수 있습니다.
 * 고객이 대출 계산기를 활용하여 본인이 받을 대출에 대한 사전 계산을 할 수 있습니다.
 
 
 <br/>
 
-> 매장별 위치 페이지
-<img width="550px" src=""/>
-  
-📋 구현 기능  
-* 
+> ### 적금
 
-
+#### - 적금 추천 페이지
+<img width="550px" src="https://github.com/jinseobb/Banking-project/assets/131458472/fd640a69-2dfd-4be8-914e-2f90767c8a3b"/>  
 <br/>
 
-> 마이페이지 > 주문 내역 페이지
-<img width="550px" src=""/>
-  
-📋 구현 기능  
-* 
-
+#### - 적금 계산기 페이지 (매일 일정 금액을 저축할 때)
+<img width="550px" src="https://github.com/jinseobb/Banking-project/assets/131458472/38d1537b-3047-4102-b3e5-6e7fb51f8a07"/>  
 <br/>
 
-> 마이페이지 > 배송 주소록 페이지
-<img width="550px" src=""/>
-  
-📋 구현 기능  
-* 
-
+#### - 적금 계산기 페이지 (목표 금액을 만들 때)
+<img width="550px" src="https://github.com/jinseobb/Banking-project/assets/131458472/de4c623b-f16c-4654-84d8-32e6afe6bc5b"/>  
 <br/>
+
+### 📋 구현 기능  
+* 고객이 현재 이벤트 진행중인 적금 상품을 확인 할 수 있습니다
+* 고객이 적금 계산기를 활용하여 본인이 받을 적금에 대한 사전 계산을 원하는 목표 별로 계산 할 수 있습니다.
+
+
+
