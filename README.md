@@ -40,11 +40,13 @@
 
 <br/>
 
-> 도서 상세정보, 구매 페이지
-<img width="550px" src=""/>
+> 관리자 > 적금 상품 목록 페이지
+<img width="350px" src="https://github.com/jinseobb/Banking-project/assets/131458472/8a20cbb3-0a6f-41d6-90b4-7294f1da81c6"/>
+<img width="350px" src="https://github.com/jinseobb/Banking-project/assets/131458472/10c519c0-7727-4feb-afd1-12ecb8d2fd9c"/>
   
 📋 구현 기능  
-* 
+* 현재 서비스 중인 적금 상품의 목록을 조회 할 수 있는 페이지입니다.
+* 원하는 상품의 번호를 입력하면 해당 상품의 상세 정보를 확인 할 수 있습니다. 
 
 <br/>
 
