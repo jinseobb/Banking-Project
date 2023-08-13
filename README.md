@@ -46,10 +46,14 @@
 #### - 추가
 <img width="550px" src="https://github.com/jinseobb/Banking-project/assets/131458472/5e97a5c5-8145-4df0-9aa6-e70ebd625345"/>
 
+#### - 삭제
+<img width="550px" src="https://github.com/jinseobb/Banking-project/assets/131458472/125c639d-816b-4bf8-b70c-41a6cd203439"/>
+
   
 ### 📋 구현 기능  
 * 현재 서비스 중인 대출 상품의 목록을 조회 할 수 있는 페이지입니다.
 * 원하는 대출 상품을 추가 할 수 있습니다.
+* 원하는 대출 상품을 삭제 할 수 있습니다.
 
 <br/>
 
