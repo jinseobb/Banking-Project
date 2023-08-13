@@ -59,8 +59,12 @@
 <br/>
 
 > ### 적금 상품 목록 페이지
+
+#### - 목록
 <img width="350px" src="https://github.com/jinseobb/Banking-project/assets/131458472/8a20cbb3-0a6f-41d6-90b4-7294f1da81c6"/>
 <br/>
+
+#### - 상세보기
 <img width="550px"  src="https://github.com/jinseobb/Banking-project/assets/131458472/10c519c0-7727-4feb-afd1-12ecb8d2fd9c"/>
   
 ### 📋 구현 기능  
@@ -71,10 +75,15 @@
 
 > ### 카드 상품 목록 페이지
 
+#### - 카드 종류 선택
 <img width="250px" src="https://github.com/jinseobb/Banking-project/assets/131458472/0be7e215-223e-405e-86de-d6e0671c32a0"/>  
 <br/>
+
+#### - 목록
 <img width="350px" src="https://github.com/jinseobb/Banking-project/assets/131458472/37d064e7-ab61-4563-bd4d-28cd00c7dd0b"/>  
 <br/>
+
+#### - 상세 보기
 <img width="550px" src="https://github.com/jinseobb/Banking-project/assets/131458472/ea8c9472-7e06-4fa6-99b8-65dfbfc5618c"/>
    
 ### 📋 구현 기능  
