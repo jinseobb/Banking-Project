@@ -32,11 +32,11 @@
 
 <br/>
 
-> 도서 목록 페이지
-<img width="550px" src=""/>
+> 관리자 > 대출 상품 목록 페이지
+<img width="550px" src="https://github.com/jinseobb/Banking-project/assets/131458472/a50edd29-4be0-46cb-a7f8-842e8e04c2a2"/>
   
 📋 구현 기능  
-* 
+* 현재 서비스 중인 대출 상품의 목록을 조회 할 수 있는 페이지입니다.
 
 <br/>
 
