@@ -27,7 +27,7 @@
 
 ##  공통기능
 
-> 메인 화면
+> ### 메인 화면
 <img width="550px" src="https://github.com/jinseobb/Banking-project/assets/131458472/f664100c-d7fb-4a7d-b31e-336ff1192336"/>
   
 📋 구현 기능  
@@ -37,7 +37,7 @@
 
 ## 관리자
 
-> 대출 상품 목록 페이지
+> ### 대출 상품 목록 페이지
 <img width="550px" src="https://github.com/jinseobb/Banking-project/assets/131458472/a50edd29-4be0-46cb-a7f8-842e8e04c2a2"/>
   
 📋 구현 기능  
@@ -45,7 +45,7 @@
 
 <br/>
 
-> 적금 상품 목록 페이지
+> ### 적금 상품 목록 페이지
 <img width="350px" src="https://github.com/jinseobb/Banking-project/assets/131458472/8a20cbb3-0a6f-41d6-90b4-7294f1da81c6"/>
 <br/>
 <img width="550px"  src="https://github.com/jinseobb/Banking-project/assets/131458472/10c519c0-7727-4feb-afd1-12ecb8d2fd9c"/>
@@ -56,7 +56,7 @@
 
 <br/>
 
-> 카드 상품 목록 페이지
+> ### 카드 상품 목록 페이지
 
 <img width="250px" src="https://github.com/jinseobb/Banking-project/assets/131458472/0be7e215-223e-405e-86de-d6e0671c32a0"/>  
 <br/>
@@ -73,7 +73,7 @@
 
 ## 고객
 
-> 가입된 상품 조회 페이지
+> ### 가입된 상품 조회 페이지
 <img width="550px" src="https://github.com/jinseobb/Banking-project/assets/131458472/6e4aa67c-8ee6-46c6-bc76-ab7aa3ae0c57"/>
   
 📋 구현 기능  
@@ -81,14 +81,14 @@
 
 <br/>
 
-> 카드 추천 페이지
+> ### 카드 추천 페이지
 <img width="550px" src="https://github.com/jinseobb/Banking-project/assets/131458472/840d5920-0d66-4e79-a31e-f84bb502f700"/>
   
 📋 구현 기능  
 * 고객이 본인의 소비 패턴에 맞는 새로운 카드(신용카드, 체크카드) 를 추천 받을 수 있는 페이지 입니.
 <br/>
 
-> 대출 계산기 페이지
+> ### 대출 계산기 페이지
 <img width="550px" src="https://github.com/jinseobb/Banking-project/assets/131458472/be5df517-a270-4e89-9822-17c7e052c884"/>
   
 📋 구현 기능  
