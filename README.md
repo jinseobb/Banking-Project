@@ -17,13 +17,11 @@
 * `Java 8`
 * `JDK 11.0.1`
 - **IDE** : Eclipse(2021-03 R)
+<br/>
   
-
-
 ### ✔️Back-end
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 </br>
-
 ### 📌 주요 기능
 > 메인 화면
 <img width="550px" src="https://github.com/jinseobb/BookBBang/assets/131458472/70d214e9-6bc9-43eb-a42a-0519c4eeeb43"/>
