@@ -66,11 +66,11 @@
 
 <br/>
 
-> 주문 페이지
-<img width="550px" src=""/>
+> 고객 > 가입된 상품 조회 페이지
+<img width="550px" src="https://github.com/jinseobb/Banking-project/assets/131458472/6e4aa67c-8ee6-46c6-bc76-ab7aa3ae0c57"/>
   
 📋 구현 기능  
-* 
+* 고객 계정으로 로그인 하면, 로그인 한 고객 본인이 가입한 상품의 목록을 조회 할 수 있습니다.
 
 <br/>
 
