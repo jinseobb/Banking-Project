@@ -36,6 +36,8 @@
 <br/>
 
 ## 관리자
+#### 관리자는 카드, 상품, 대출 중 원하는 상품을 선택 후 해당 상품의 목록 조회, 상세보기, 추가, 삭제가 가능합니다.  
+<br/>
 
 > ### 대출 상품 목록 페이지
 <img width="550px" src="https://github.com/jinseobb/Banking-project/assets/131458472/a50edd29-4be0-46cb-a7f8-842e8e04c2a2"/>
