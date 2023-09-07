@@ -58,7 +58,7 @@
 
 <br/>
 
-> ### 적금 상품 목록 페이지
+> ### 적금 상품 관리 페이지
 
 #### - 목록
 <img width="350px" src="https://github.com/jinseobb/Banking-project/assets/131458472/8a20cbb3-0a6f-41d6-90b4-7294f1da81c6"/>
@@ -73,7 +73,7 @@
 
 <br/>
 
-> ### 카드 상품 목록 페이지
+> ### 카드 상품 관리 페이지
 
 #### - 카드 종류 선택
 <img width="250px" src="https://github.com/jinseobb/Banking-project/assets/131458472/0be7e215-223e-405e-86de-d6e0671c32a0"/>  
